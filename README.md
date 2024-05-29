@@ -1,2 +1,2 @@
 # solana-training
-using typescript to learn programming on the solana blockchain
+using typescript to learn blockchain programming on the solana blockchain
